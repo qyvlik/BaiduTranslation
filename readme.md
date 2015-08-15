@@ -2,11 +2,11 @@
 
 在 `QML` 中，主要使用 `XMLHttpRequest` 对象进行数据请求。
 
-![](ScreenShot\zh_en.jpg)
+![](ScreenShot/zh_en.jpg)
 
-![](ScreenShot\en_zh.jpg)
+![](ScreenShot/en_zh.jpg)
 
-![](ScreenShot\translate.png)
+![](ScreenShot/translate.png)
 
 ---
 
